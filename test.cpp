@@ -10,7 +10,7 @@ int main()
 	}
 	catch(const exception& exception)
 	{
-		cout << "An exception was cought" << endl;
+		cout << "An exception was caught" << endl;
 	}
 
 	return 0;
